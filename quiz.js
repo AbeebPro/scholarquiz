@@ -95,7 +95,7 @@ const quizApp = {
 		{
 			q: "Which character is used to indicate an end tag?",
 			option: ["&lt", "()","^ ", "/"],
-			correctAnswer: 3
+			correctAnswer: 4
 		},
 		{
 			q: "How can you make a bulleted list? ",
