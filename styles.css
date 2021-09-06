@@ -52,7 +52,8 @@ body{
 	width: 100%;
 }
 .btn, .next-btn{
-	background: green;
+	border: 2px solid hsl(150, 100%, 30%);
+	background: hsl(150, 100%, 50%);
 	color: #fff;
 	border-radius: 89px;
 	font-family: sans-serif;
